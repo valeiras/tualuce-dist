@@ -974,9 +974,9 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   ul :nth-child(2n + 1) {
     text-align: left;
   }
-`,X8="/assets/map-7b5e545f.png",Q8=()=>{const{safeLanguage:e}=Ee();return d.jsxs(J8,{children:[d.jsx("h4",{children:vC[e]}),d.jsx("a",{href:"https://maps.app.goo.gl/HaBe1RFyKHXPW4HVA",target:"_blank",rel:"noreferrer",children:d.jsx("img",{src:X8,alt:""})})]})},J8=Ce.div`
+`,X8="/assets/map-3b4e17e3.jpeg",Q8=()=>{const{safeLanguage:e}=Ee();return d.jsxs(J8,{children:[d.jsx("h4",{children:vC[e]}),d.jsx("a",{href:"https://maps.app.goo.gl/HaBe1RFyKHXPW4HVA",target:"_blank",rel:"noreferrer",children:d.jsx("img",{src:X8,alt:""})})]})},J8=Ce.div`
   img {
-    width: 180px;
+    width: 250px;
     filter: grayscale(2);
     border-radius: 2px;
   }
